@@ -1,0 +1,9 @@
+name: Warning
+main: com.windows.Warning.Warning
+version: 1.0
+commands:
+  경고:
+  경고확인:
+  경고차감:
+  경고사유:
+  경고점수:
